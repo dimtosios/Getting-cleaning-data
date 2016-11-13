@@ -1,8 +1,4 @@
----
-title: "Getting and Cleaning Data - Course Project"
-author: "Dimitris Tosios"
-date: "13 November 2016"
-output: html_document
+dimitris tosios
 ---
 
 -----------------------------
